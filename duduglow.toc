@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: DUDUGLOW
+## SavedVariables: DUDUGLOW_SAVED_VARS
+## Notes: Highlights recently acquired items (loot/profs/quest/vendor) in your bag. Supports Bagnon and default inventory and English localization only
+## Version: 1.0
+
+duduglow.lua
